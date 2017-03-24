@@ -1,0 +1,1 @@
+<h1>Det her er en side med nyheder</h1>

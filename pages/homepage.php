@@ -1,0 +1,1 @@
+<h1>Velkommen tilbage <?php echo context::getContext()->student->first_name; ?></h1>
